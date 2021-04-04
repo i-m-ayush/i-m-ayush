@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Kumar
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning Bachelor of Computer Applications
 - 💞️ I’m looking to collaborate on Any programmer or Developer
 - 📫 You can reach me through my gmail or contact nummber
 
